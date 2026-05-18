@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65337616420",
+    "project_id": "quizapphalfi",
+    "storage_bucket": "quizapphalfi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65337616420:android:22a0385ec0f1f8477f50b1",
+        "android_client_info": {
+          "package_name": "com.example.quizapp_halfi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtoOFwKbdEbDSRhes-Fn-x3BEii8-Ks-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
